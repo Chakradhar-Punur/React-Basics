@@ -107,4 +107,5 @@
   ```
 
 - Working with components
+  - JSX (JavaScript XML)
 - Working with data
