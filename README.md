@@ -106,6 +106,21 @@
   npm start
   ```
 
-- Working with components
-  - JSX (JavaScript XML)
-- Working with data
+### Working with components and data
+
+- JSX (JavaScript XML)
+- HTML in a function
+- Declarative approach, unlike imperative approach, no need to create each element. React.js builds HTML components for you with returned JSX syntax.
+- You build a component tree in React
+- Components are created in separate files
+- Component is just a JavaScript function that returns JSX code
+- All components should have capital letter starting. React considers those are custom HTML elements.
+- There can only be one root element per one function
+- Dynamic data in react components using JavaScript
+- Props are attributes of custom components created by us
+- Props are used to pass attributes across React components
+- Date functions month, year, day
+- Splitting React components (nested components - App --> ExpenseItem --> ExpenseDate)
+- Assignment - Move expense item to expenses.js
+- Composition (combining componeents)
+- props.children | card.js (building wrapper components)
